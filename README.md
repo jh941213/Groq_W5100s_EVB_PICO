@@ -85,6 +85,6 @@ Utilizing the cutting-edge technology from Groq and Meta, this project aims to r
       main()
 
 ## Result
-![1](https://github.com/jh941213/Groq_W5100s_EVB_PICO/assets/112835087/ac246e96-483f-41dc-ab1a-a5195535688e)
+![1](https://github.com/jh941213/Groq_W5100s_EVB_PICO/assets/112835087/ac246e96-483f-41dc-ab1a-a5195535688e)  
 ![화면 기록 2024-04-22 오후 4 52 03](https://github.com/jh941213/Groq_W5100s_EVB_PICO/assets/112835087/6fcbde05-061f-4eac-b06e-3d41740a25b4)
 
